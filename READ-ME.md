@@ -26,8 +26,8 @@ This was done as an exercise in HTML/CSS.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/bagelsbagel/QRcode)
+- Live Site URL: [Live Site](https://bagelsbagel.github.io/QRcode/)
 
 ## My process
 

@@ -48,11 +48,27 @@ I learned how to link my website to external files. For example, linking my HTML
 
 This was a great exercise in understanding and applying box properties, with padding and margin. I also learned about the flex-box property and aligned items inside a div container. This was trickier than I thought, and it gave me a good understanding of how images and containers function.
 
-I also learned how to center components in a responsive website. Rather than assigning static properties, the image and container adjusts to varying desktop and mobile sizes.
+With the help of Melvin Aguilar, I was able to improve my design. For example, making the design accessible for screenreaders with <main> and <footer>, as well as replacing previous <br> tags with margin, padding, and overflow-wrap.
+
+I also improved my styling by updating font sizes to rem instead of pixels, and using flexbox layouts instead of static sizes. 
+
+Here are useful code samples:
+
+For adjusting the size of a container or body:
+
+>  min-height: 100vh;
+>  display: flex;
+>  flex-direction: column;
+>  justify-content: center;
+>  align-items: center;
+
+For breaking text inside a container:
+
+> overflow-wrap: break-word;
 
 ### Continued development
 
-In the future, I would like to work more with responsive screens, especially adjusting text and image sizes. I also want to utilize the flex-box property more often for more complicated visual designs in the future.
+In the future, I would like to work more with responsive screens, especially adjusting text and image sizes. I also want to utilize the flex-box property for more complicated visual designs in the future.
 
 ### Useful resources
 

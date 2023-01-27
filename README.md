@@ -82,3 +82,5 @@ In the future, I would like to work more with responsive screens, especially adj
 ## Acknowledgments
 
 Shout out to Dr. Angela for pointing me towards this resource. I learned about FrontEnd Mentor through her course "The Complete 2023 Web Development Bootcamp".
+
+And thank you to Melvin Aguilar for the detailed feedback on my first iteration.

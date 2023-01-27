@@ -48,7 +48,7 @@ I learned how to link my website to external files. For example, linking my HTML
 
 This was a great exercise in understanding and applying box properties, with padding and margin. I also learned about the flex-box property and aligned items inside a div container. This was trickier than I thought, and it gave me a good understanding of how images and containers function.
 
-With the help of Melvin Aguilar, I was able to improve my design. For example, making the design accessible for screenreaders with <main> and <footer>, as well as replacing previous <br> tags with margin, padding, and overflow-wrap.
+With the help of Melvin Aguilar, I was able to improve my design. For example, making the design accessible for screenreaders with `main` and `footer`, as well as replacing previous `br` tags with margin, padding, and overflow-wrap.
 
 I also improved my styling by updating font sizes to rem instead of pixels, and using flexbox layouts instead of static sizes. 
 
